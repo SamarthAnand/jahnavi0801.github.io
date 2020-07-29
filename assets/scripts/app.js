@@ -6,7 +6,7 @@ const Portfolio = function() {
 				weight: 14
 			}, {
 				text: "Table Tennis",
-				weight: 3
+				weight: 7
 			}, {
 				text: "Badmiton",
 				weight: 7
