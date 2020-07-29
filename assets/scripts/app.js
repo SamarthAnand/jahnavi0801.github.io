@@ -1,33 +1,21 @@
 const Portfolio = function() {
 	function makeWords() {
 		var words = [
-			{
-				text: "Medium",
-				weight: 12.3
-			}, {
+			   {
 				text: "Illustrator",
 				weight: 14
 			}, {
-				text: "Canva",
-				weight: 4
-			}, {
-				text: "Blog",
+				text: "Table Tennis",
 				weight: 3
 			}, {
-				text: "Reading",
+				text: "Badmiton",
 				weight: 7
 			}, {
-				text: "Writing",
+				text: "Painting",
 				weight: 10
 			}, {
 				text: "Photography",
 				weight: 9
-			}, {
-				text: "Blogger",
-				weight: 15
-			}, {
-				text: "Volunteer",
-				weight: 7
 			}
 		];
 		return words;
